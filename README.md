@@ -43,6 +43,5 @@ Here are some ideas to get you started:
   - 👯 I’m looking to collaborate on impactful tech projects for real-world solutions. <br>
   - 🤔 I’m seeking guidance on combining creativity with data-driven strategies. <br>
   - 💬 Ask me about user-centered design or how I’m learning Python! <br>
-  - ⚡ Fun fact: I believe even dinosaurs 🦖 could use good UX design! <br>
 
 </details>
