@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <summary>
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Food/Cheese%20Wedge.png" width="2%"> My Journey
 </summary>  
-  <br>
   - 👯 I’m looking to collaborate on impactful tech projects for real-world solutions. <br>
   - 🤔 I’m seeking guidance on combining creativity with data-driven strategies. <br>
   - 💬 Ask me about user-centered design or how I’m learning Python! <br>
