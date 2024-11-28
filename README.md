@@ -1,12 +1,13 @@
 ## Hey there, nice to see you <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Blue%20Heart.png" width="30" />
 
 
-<h1>
-	<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Blue%20Heart.png" width="30" />
-	Hey there, nice to see you.
-</h1>
+<br>
 
-  
+Hi, I'm a dreaming UX designer 🖌️, Data Scientist 💻, and... dinosaur 🦖!
+
+
+<br>
+
 <!--
 **MinJae7707/MinJae7707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
