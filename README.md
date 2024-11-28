@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 <details>
 <summary>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Food/Cheese%20Wedge.png"> My Journey
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Food/Cheese%20Wedge.png" width="2%"> My Journey
 </summary>  
   <br>
-  - 👯 I’m looking to collaborate on impactful tech projects for real-world solutions.
-  - 🤔 I’m seeking guidance on combining creativity with data-driven strategies.
-  - 💬 Ask me about user-centered design or how I’m learning Python!
-  - ⚡ Fun fact: I believe even dinosaurs 🦖 could use good UX design!
+  - 👯 I’m looking to collaborate on impactful tech projects for real-world solutions. <br>
+  - 🤔 I’m seeking guidance on combining creativity with data-driven strategies. <br>
+  - 💬 Ask me about user-centered design or how I’m learning Python! <br>
+  - ⚡ Fun fact: I believe even dinosaurs 🦖 could use good UX design! <br>
 
 </details>
