@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, nice to see you 👋
 
 <!--
 **MinJae7707/MinJae7707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae7707)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
@@ -27,3 +26,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
 </details>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJae7707)](https://github.com/anuraghazra/github-readme-stats)
+
