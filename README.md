@@ -1,7 +1,7 @@
 ## Hey there, nice to see you <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Blue%20Heart.png" width="30" />
 
 
-I'm a dreaming of UX designer 🖌️, Data Scientist 💻, and... dinosaur 🦖!
+I'm a dreaming of UX designer 🎨, Data Scientist 💻, and... dinosaur 🦖!
 
 
 <br>
@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 
 </details>
 
-<img src="https://raw.githubusercontent.com/MinJae7707/MinJae7707/output/github-contribution-grid-snake-dark.svg">
 
+<details>
+<summary>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Food/Cheese%20Wedge.png"> My Journey
+</summary>  
+  <br>
+  - 👯 I’m looking to collaborate on impactful tech projects for real-world solutions.
+  - 🤔 I’m seeking guidance on combining creativity with data-driven strategies.
+  - 💬 Ask me about user-centered design or how I’m learning Python!
+  - ⚡ Fun fact: I believe even dinosaurs 🦖 could use good UX design!
 
+</details>
