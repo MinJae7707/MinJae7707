@@ -1,7 +1,7 @@
 ## Hey there, nice to see you <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Blue%20Heart.png" width="30" />
 
 
-I'm a dreaming of UX designer 🎨, Data Scientist 💻, and... dinosaur 🦖!
+I'm a dreaming of Project Manager 🎨, Data Scientist 💻, and... dinosaur 🦖!
 
 
 <br>
